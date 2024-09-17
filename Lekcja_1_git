@@ -1,0 +1,28 @@
+pwd - Wyświetlenie bieżącego katalogu, folderu lub biblioteki  
+shift + insert - wklejanie 
+cd shift + insert - wklejenie adresu
+ls -a - wyświetla ukryte pliki
+ls -la - 
+git init -
+clear
+alias c=clear 
+cat
+touch
+git status
+echo "#aa" > README.md
+git add README.md
+LF - znak końca lini(MacOS, Linux)
+CRLF - znak końca lini(Windows)
+git commit
+git commit -m "dodanie pliku README.md do repo"
+git remote add orgin https://github.com/GrygielSzymon/repo_2f.git
+git push -u orgin master
+git config --global user.name "Szymon"    
+git config --global user.email "szymongrygiel132@gmail.com"
+git config --global --unset user.name 
+git config --global --unset user.email   
+
+echo "test" > test
+git add test
+git commit -m "test"
+git push
