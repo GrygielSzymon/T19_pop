@@ -1,4 +1,4 @@
-                                                                                          Operacje na katalogach i plikach
+Operacje na katalogach i plikach
 # Wyświetlenie bieżącego katalogu
 pwd
 
@@ -32,7 +32,7 @@ clear
 # Tworzenie aliasu do czyszczenia ekranu
 alias c=clear
 
-                                                                                          Operacje na repozytorium git
+Operacje na repozytorium git
 # Inicjalizacja nowego repozytorium Git
 git init
 
@@ -59,8 +59,8 @@ git push -u origin master
 
 # Wysyłanie lokalnych commitów do zdalnego repozytorium
 git push
-                                                                                          Operacje na plikach i konfiguracji Gita
 
+Operacje na plikach i konfiguracji Gita
 # Wyświetlenie zawartości katalogu .git
 ls .git
 
@@ -94,8 +94,8 @@ git config --global --unset user.mail
 
 # Wyświetlenie listy konfiguracji Git
 git config --list
-                                                                                          Inne
 
+Inne
 # Znak nowej linii w systemach Unix/Linux (LF)
 LF
 
