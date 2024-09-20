@@ -75,8 +75,8 @@ ls .git/config
 
 # Wyświetlenie pliku description
 ls .git/description
-                                                                                          Konfiguracja Git
 
+Konfiguracja Git
 # Ustawienie globalnej nazwy użytkownika
 git config --global user.name "Twoje Imię"
 
