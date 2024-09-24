@@ -1,3 +1,12 @@
+mkdir git1
+cd git1
+git init 
+git add.
+echo "# git1" >> README.md
+git remote add orgin https://github.com/GrygielSzymon/git1.git
+git push orgin main
+
+
 1.  mkdir git1
 2.  cd git1
 3.  $ echo "# git1" >> README.md
